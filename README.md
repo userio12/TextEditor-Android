@@ -1,7 +1,7 @@
 # TextEditor-Android
 
 <p align="center">
-  <img src="preview/re.png" width="100" height="100" alt="TextEditor-Android Logo"/>
+  <img src="preview/hm.png" width="100" height="100" alt="TextEditor-Android Logo"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 | App UI |
 | --- |
-| ![App UI](preview/a1.jpg) |
+| ![App UI](preview/e.jpg) |
 
 ## License
 
