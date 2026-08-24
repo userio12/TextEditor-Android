@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HMTextEditor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl</item>
+    </style>
+</resources>

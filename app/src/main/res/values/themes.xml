@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CbaseFoundation" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#151515</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="colorPrimaryDark">#151515</item>
+        <item name="android:navigationBarColor">#151515</item>
+
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl</item>
+    </style>
+
+    <style name="Theme.CbaseFoundation" parent="Base.Theme.CbaseFoundation" />
+</resources>
