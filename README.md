@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A custom Android text editor built for fast and smooth text editing.
+  A lightweight custom text editor for Android powered by a Gap Buffer built for fast editing smooth performance and efficient text manipulation
 </p>
 
 ## Preview
